@@ -1,0 +1,36 @@
+{
+  "id": "ab23603d-0b9c-4014-a795-68354eb9676c",
+  "name": "AA CAMAYA COAST DEV",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [{"id": "20433ba3-1d3f-4de5-9b21-3873bd231043",
+  "name": "AACamayaCoastTables",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0"}],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50555
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+  
+}
